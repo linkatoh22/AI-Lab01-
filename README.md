@@ -1,9 +1,3 @@
-Imagine you are participating in a game where a character is attempting to navigate through 
-a maze and requires your assistance in order to escape. As illustration, in the maze 
-mentioned above, the entrance is located in cell 40 and the exit is located in cell 59. In 
-order to make this task less challenging, we will presume that this maze contains only a 
-single entrance and exit. Additionally, it is essential to always confirm that there is a viable 
-escape route from the maze. You can only move horizontally and vertically.
 * Problem representation:
 Input: The maze is represented as a text file as follows.
 - The first line must contain a positive integer 𝑁, representing the size of the maze.
