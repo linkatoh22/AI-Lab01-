@@ -1,4 +1,3 @@
-* Problem representation:
 Input: The maze is represented as a text file as follows.
 - The first line must contain a positive integer 𝑁, representing the size of the maze.
 - The second line contains 2 integers representing the entrance and exit.
