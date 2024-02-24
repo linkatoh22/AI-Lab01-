@@ -1,0 +1,30 @@
+DFS
+Solution: 1 11 10 20 21 31 41 42 
+Visited: 1 2 3 4 14 24 11 10 20 21 31 41 42 
+Length of visiting:13
+Time: 1.7899998056236655e-05 second
+
+BFS
+Solution: 1 11 10 20 21 31 41 42 
+Visited: 1 11 2 10 3 0 20 4 21 14 31 24 30 41 40 42 
+Length of visiting:16
+Time: 1.8700000509852543e-05 second
+
+UCS
+Solution: 1 11 10 20 21 31 41 42 
+Visited: 1 11 2 10 3 0 20 4 14 21 24 31 30 41 40 42 
+Length of visiting:16
+Time: 8.230000094044954e-05 second
+
+GDBFS
+Solution: 1 11 10 20 21 31 41 42 
+Visited: 1 11 10 20 21 31 41 42 
+Length of visiting: 8
+Time: 7.869999899412505e-05 second
+
+A star
+Solution: 1 11 10 20 21 31 41 42 
+Visited: 1 11 2 10 20 21 31 41 42 
+Length of visiting:9
+Time: 8.850000085658394e-05 second
+
